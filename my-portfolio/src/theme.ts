@@ -10,9 +10,10 @@ let theme = createTheme({
       },
     },
     typography: {
-        fontFamily: ["Helvetica Neue",
+        fontFamily: [
+          '"Helvetica Neue"',
             // "-apple-system"
-        ].join(),
+        ].join()
     }
   });
 
